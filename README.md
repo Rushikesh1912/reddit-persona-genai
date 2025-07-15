@@ -43,3 +43,13 @@ Tone & writing style
 Beliefs & values
 
 Hobbies and subreddit behavior
+
+## 📸 Sample Output
+
+Here’s a generated persona preview for user `kojied`:
+
+![Sample Output](images/output_preview.png)
+
+Here’s a generated persona preview for user `kojied`:
+
+![Sample Output](images/output_preview.png)
