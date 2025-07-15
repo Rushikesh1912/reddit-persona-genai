@@ -52,9 +52,8 @@ Here’s a generated persona preview for user `kojied`:
 
 Here’s a generated persona preview for user `Hungry-Move-6603`:
 
-![Hungry-Move Preview](https://raw.githubusercontent.com/Rushikesh1912/reddit-persona-genai/main/Images/Hungry-Move.jpg)
 
-## 🧪 Sample GUI Preview
+## 🧪 Sample Hungry Preview
 
-<img src="https://github.com/Rushikesh1912/Brain-Tumor-Detection/blob/main/Images/gui%20screenshot.jpg" alt="GUI Preview" width="700"/>
+<img src="https://github.com/Rushikesh1912/reddit-persona-genai/blob/main/Images/Hungry-Move.jpg" alt="Hungry Preview" width="700"/>
 
