@@ -50,6 +50,7 @@ Hobbies and subreddit behavior
 
 ## 📸 Sample Hungry Output
 
-![Hungry Output](https://raw.githubusercontent.com/Rushikesh1912/reddit-persona-genai/main/Images/report.jpg)
+<img src="https://raw.githubusercontent.com/Rushikesh1912/reddit-persona-genai/main/Images/kojied.jpg" alt="Kojied Output" width="800"/>
+
 
 
