@@ -50,6 +50,6 @@ Here’s a generated persona preview for user `kojied`:
 
 ![Sample Output](images/output_preview.png)
 
-Here’s a generated persona preview for user `kojied`:
+Here’s a generated persona preview for user `Hungry-Move`:
 
-![Sample Output](images/output_preview.png)
+![Sample Output](images/https://github.com/Rushikesh1912/reddit-persona-genai/blob/main/Images/Hungry-Move.jpg)
