@@ -55,5 +55,5 @@ Here’s a generated persona preview for user `Hungry-Move-6603`:
 
 ## 🧪 Sample Hungry Preview
 
-<img src="https://github.com/Rushikesh1912/reddit-persona-genai/blob/main/Images/Hungry-Move.jpg" alt="Hungry Preview" width="700"/>
+<img src="https://github.com/Rushikesh1912/reddit-persona-genai/blob/main/Images/Hungry-Move.jpg" alt="Hungry Preview" width="400"/>
 
