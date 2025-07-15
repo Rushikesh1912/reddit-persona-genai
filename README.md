@@ -52,4 +52,4 @@ Here’s a generated persona preview for user `kojied`:
 
 Here’s a generated persona preview for user `Hungry-Move`:
 
-![Sample Output](https://github.com/Rushikesh1912/reddit-persona-genai/blob/main/Images/Hungry-Move.jpg)
+![Hungry-Move Persona](https://raw.githubusercontent.com/Rushikesh1912/reddit-persona-genai/main/Images/Hungry-Move.jpg)
