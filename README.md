@@ -48,8 +48,7 @@ Hobbies and subreddit behavior
 
 Here’s a generated persona preview for user `kojied`:
 
-![Sample Output](https://github.com/Rushikesh1912/reddit-persona-genai/blob/main/Images/kojied.jpg)
-<img src="https://github.com/Rushikesh1912/reddit-persona-genai/blob/main/Images/kojied.jpg" alt="Kojied Preview" width="700"/>
+<img src="https://github.com/Rushikesh1912/reddit-persona-genai/blob/main/Images/kojied.jpg" alt="Kojied Preview"/>
 
 Here’s a generated persona preview for user `Hungry-Move`:
 
