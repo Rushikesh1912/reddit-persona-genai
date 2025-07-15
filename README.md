@@ -44,16 +44,16 @@ Beliefs & values
 
 Hobbies and subreddit behavior
 
-## 📸 Sample Output
+## 📸 Sample Kojied Output
 
 Here’s a generated persona preview for user `kojied`:
 
-![Kojied Preview](https://raw.githubusercontent.com/Rushikesh1912/reddit-persona-genai/main/Images/kojied.jpg)
+<img src="https://github.com/Rushikesh1912/reddit-persona-genai/blob/main/Images/Hungry-Move.jpg" alt="Kojied Output" width="1280"/>
 
 Here’s a generated persona preview for user `Hungry-Move-6603`:
 
 
-## 🧪 Sample Hungry Preview
+## 📸 Sample Hungry Output
 
-<img src="https://github.com/Rushikesh1912/reddit-persona-genai/blob/main/Images/Hungry-Move.jpg" alt="Hungry Preview" width="1280"/>
+<img src="https://github.com/Rushikesh1912/reddit-persona-genai/blob/main/Images/Hungry-Move.jpg" alt="Hungry Output" width="1280"/>
 
