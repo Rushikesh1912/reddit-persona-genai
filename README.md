@@ -46,9 +46,9 @@ Hobbies and subreddit behavior
 
 ## 📸 Sample Kojied Output
 
-<img src="https://raw.githubusercontent.com/Rushikesh1912/reddit-persona-genai/main/Images/kojied.jpg" alt="Kojied Output" width="1280"/>
+<img src="https://raw.githubusercontent.com/Rushikesh1912/reddit-persona-genai/main/Images/kojied.jpg" alt="Kojied Output" width="800"/>
 
 ## 📸 Sample Hungry Output
 
-<img src="https://raw.githubusercontent.com/Rushikesh1912/reddit-persona-genai/main/Images/Hungry-Move.jpg" alt="Hungry Output" width="1280"/>
+<img src="https://raw.githubusercontent.com/Rushikesh1912/reddit-persona-genai/main/Images/Hungry-Move.jpg" alt="Hungry Output" width="800"/>
 
